@@ -1,0 +1,2 @@
+﻿arcpy.management.SaveToLayerFile("ACLED_2010_2018_Nigeria", r"C:\EsriPress\GTKAGPro\Conflict\ACLED_2010_2018_Nigeria2.lyrx", "RELATIVE", "CURRENT")
+arcpy.management.SaveToLayerFile('ACLED_2010_2018_Nigeria' , 'ACLED_2010_2018_Nigeria3.lyrx' , 'RELATIVE' , 'CURRENT')
